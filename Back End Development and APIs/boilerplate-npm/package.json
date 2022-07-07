@@ -1,0 +1,19 @@
+{
+	"author": "Christopher Owen",
+  "description": "Free Code Camp Backend Challenges",
+  "keywords": [ "Backend", "freecodecamp" ],
+  "license": "MIT",
+  "version": "1.1.0",
+	"name": "fcc-learn-npm-package-json",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
